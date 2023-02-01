@@ -7,3 +7,8 @@ body{
     border-style: dashed;
     text-align: center;
 }
+
+#szoveg{
+    text-align: justify;
+    text-decoration: darkslategray;
+}
